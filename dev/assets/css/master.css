@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, "MS Trebuchet", sans-serif;
+  color: #333333;
+  line-height: 1.72em;
+  margin: 1.72em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #0066FF;
+}
+
+h2, h2 a, h2 a:link {
+  cursor: default;
+  color: #333333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  background-color: #ccc;
+}
+
+img, iframe, .shadow {
+  -moz-box-shadow:    3px 3px 8px 2px #ccc;
+  -webkit-box-shadow: 3px 3px 8px 2px #ccc;
+  box-shadow:         3px 3px 8px 2px #ccc;
+}
+
+.banner img {
+  border-radius: 5px;
+}
