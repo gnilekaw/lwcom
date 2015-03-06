@@ -1,0 +1,42 @@
+---
+component: infinite-loader
+---
+<script>
+  // Pages to load when user scrolls down
+  var pages = ['partials/field-visits.html', 'partials/tour.html', 'partials/views.html', 'partials/subida-al-cielo.html', 'partials/obsidian-edition.html', 'partials/vandalized.html', 'partials/apples.html', 'partials/misc.html', 'partials/pictures.html', 'partials/mail-list.html'],
+    // Only check for changes periodically
+    scrollChanges = _.debounce(scrollInit, 250);
+
+  // Watch for changes
+  $(window).on('scroll', scrollChanges);
+
+  // Initialize the auto-loader
+  function scrollInit () {
+    var maxScroll = getMaxScroll(), 
+      yOffset = getYOffset();
+
+    if (maxScroll === yOffset) {
+      _.isEmpty(pages) ? scrollChanges.cancel() : loadPage(pages.shift(), '.more-work');
+    }
+  }
+
+  // Calculate Y offset
+  function getYOffset () {
+    return $(window).scroll()[0].pageYOffset;
+  }
+
+  // Get the bottom of the window
+  function getMaxScroll () {
+    var windowHeight = $(window).height(),
+      documentHeight = $(document).height();
+    return documentHeight - windowHeight;
+  }
+
+  // Load a page into an element
+  function loadPage (page, targetElement) {
+    $.get(page, function(data) {
+      $(targetElement).append(data);
+    });
+  }
+
+</script>

@@ -1,7 +1,18 @@
 ---
 title: Pictures
 ---
-<img src="{{assets}}/images/photos/zola_DSC7758.jpg" />
+
+<img src="{{assets}}/images/photos/cloud-CIMG3942.jpg" />
+
+<img src="{{assets}}/images/photos/red-clouds_DSC7796.jpg" />
+
+<img src="{{assets}}/images/photos/palms_DSC7793.jpg" />
+
+<img src="{{assets}}/images/photos/obsidian_DSC7799.jpg" />
+
+<img src="{{assets}}/images/photos/zoe_DSC7811.jpg" />
+
+<!-- <img src="{{assets}}/images/photos/zola_DSC7758.jpg" /> -->
 
 <img src="{{assets}}/images/photos/radar_DSC7744.jpg" />
 

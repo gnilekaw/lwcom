@@ -40,7 +40,19 @@ module.exports = function(grunt) {
         },
         files: {
           'dest/work/': ['src/content/work/*.md'],
-          'dest/text/': ['src/content/text/*.md']
+          'dest/text/': ['src/content/text/*.md'],
+          'dest/pages/': ['src/content/pages/*.html', 'src/content/pages/*.md']
+        }
+      },
+
+      autoload: {
+        options: {
+          ext: '.html',
+          engine: 'handlebars',
+          layout: 'infinite-body.hbs'
+        },
+        files: {
+          'dest/partials/': ['src/content/work/*.md', 'src/content/pages/*.html'],
         }
       }
 

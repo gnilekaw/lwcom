@@ -5,7 +5,7 @@ title: Lance Wakeling Internet
 ![Black Square (After Malevich)]({{assets}}/images/eflux-convo/black-square.jpg)
 
 
-Black Square (After Malevich)
+Black Square
 
 ## Selected Work
 

@@ -1,8 +1,9 @@
 {
-  "name": "assemble-examples-markdown",
+  "name": "lwcom",
   "dependencies": {
     "grunt-contrib-clean": "~0.4.1",
     "assemble": "~0.4.0",
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "lodash": "~3.3.1"
   }
 }
