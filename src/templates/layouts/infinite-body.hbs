@@ -8,3 +8,9 @@
 {{/markdown}}
 </div>
 </div>
+
+<script>
+	var trim = 'dest';
+	var page = '{{ dirname }}'.substring(trim.length) + '/{{ filename }}';
+	ga('send', 'pageview', page);
+</script>
