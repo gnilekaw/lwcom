@@ -25,6 +25,7 @@ Black Square
 ## News and Screenings
 
 - 28 May: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
+- 19 March: [Verso Film Club](http://www.versobooks.com/events/1085-verso-film-club-field-visits-for-chelsea-manning-and-space-ghost-with-lance-wakeling-chase-madar-and-alexa-o-brien): *Field Visits for Chelsea Manning* and *Space Ghost* with Lance Wakeling, Chase Madar, and Alexa O'Brien, New York City
 - 19 March: Screening at [Evening on the Great Pacific Garbage Patch](http://www.serpentinegalleries.org/exhibitions-events/evening-great-pacific-garbage-patch), with Keller Easterling and Rachel Pimm, Serpentine, London.
 - February: New Historical Materialisms, [conversations.e-flux.com](http://conversations.e-flux.com/t/new-historical-materialisms/1022), curated by David Hodge and Hamed Yousefi.
 - <em>Brooklyn Rail</em> reviews [Migrating Forms](http://www.brooklynrail.org/2015/02/film/plenty-of-causes-for-concern-bams-migrating-forms) and "[Thanks to Apple, Amazon, and the Mall](http://www.brooklynrail.org/2015/02/artseen/thanks-to-apple-amazon-and-the-mall)."
