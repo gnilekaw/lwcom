@@ -2,7 +2,17 @@
 component: head
 ---
 <head>
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
-  <title>{{ title }}</title>
-  <link type="text/css" rel="stylesheet" href="{{assets}}/css/master.css" media="screen">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ title }}</title>
+    <meta name="description" content="TK">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- TODO: Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="{{assets}}/css/normalize.css">
+    <link rel="stylesheet" href="{{assets}}/css/main.css">
+    <link type="text/css" rel="stylesheet" href="{{assets}}/css/master.css" media="screen">
+    <script src="{{assets}}/js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
