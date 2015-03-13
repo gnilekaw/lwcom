@@ -6,6 +6,7 @@ title: A Tour of the AC-1 Transatlantic Submarine Cable
 
 A Tour of the AC-1 Transatlantic Submarine Cable is the first-person account of visits to the four landing points of a telecommunications cable known as Atlantic Crossing 1, which passes through Fire Island, New York; Sennen Cove, England; Castricum, the Netherlands; and Sylt, Germany. The video takes the form of the travelogue. Chance encounters and associative digressions link the communications cable to political protest, global security, war, the panopticons of Jeremy Bentham and Argus, the urban history of docks and data centers, Sylt's corrective geology, and the problem of representing global communication structures, whose scale far exceeds that of the individual.
 
+<iframe src="https://player.vimeo.com/video/65776201?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Screenings
 
