@@ -2,11 +2,6 @@
 title: Lance Wakeling Internet
 ---
 
-![Black Square (After Malevich)]({{assets}}/images/eflux-convo/black-square.jpg)
-
-
-Black Square
-
 ## Selected Work
 
 - <a href="work/field-visits.html">Field Visits for Chelsea Manning</a>
@@ -48,4 +43,9 @@ Black Square
 - <a href="http://lancewakeling.us6.list-manage.com/subscribe?u=cee37085a779b645cd9f37af6&id=d39be1df78">Get occasional e-mails on screenings and projects</a>
 - <a href="http://twitter.com/lancewakeling">Twitter</a>
 
-<a href="https://vimeo.com/113037659" target="_blank" class="banner"><img src="{{assets}}/images/fv-official-trailer.png" alt="" /></a>
+![Black Square (After Malevich)]({{assets}}/images/eflux-convo/black-square.jpg)
+
+
+Black Square
+
+<!-- <a href="https://vimeo.com/113037659" target="_blank" class="banner"><img src="{{assets}}/images/fv-official-trailer.png" alt="" /></a> -->
