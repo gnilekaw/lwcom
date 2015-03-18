@@ -1,4 +1,14 @@
 .DS_Store
+
+# dev dependencies
 bower_components/
-dest/
 node_modules/
+
+# generated files
+dest/index.html
+dest/**/*.html
+
+# assets
+dest/assets/css/vendor/*
+dest/assets/images/**
+dest/assets/js/vendor/*
