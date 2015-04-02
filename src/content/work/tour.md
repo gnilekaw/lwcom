@@ -40,4 +40,4 @@ London, 11 May & 13 May 2012
 
 ---
 
-To aquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)
+To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

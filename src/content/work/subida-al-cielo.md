@@ -19,4 +19,4 @@ A video essay on the internet, obsidian, and the symbol of the eagle in Aztec an
 
 ---
 
-To aquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)
+To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

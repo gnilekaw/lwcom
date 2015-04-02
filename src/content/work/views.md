@@ -19,4 +19,4 @@ Views of a Former Verizon Building is the second in a series of works that explo
 
 ---
 
-To aquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)
+To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

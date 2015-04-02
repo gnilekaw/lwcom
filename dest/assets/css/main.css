@@ -95,8 +95,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.container {
+  position: relative;
+}
+
 body {
-  font-family: Arial, "MS Trebuchet", sans-serif;
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+  line-height: 30px;
   color: #333333;
   margin: 1.72em;
   text-align: center;
@@ -110,12 +116,12 @@ body {
 
 header {
   margin-bottom: 2.4em;
-  padding-bottom: 1.2em;
-  border-bottom: 4px dashed #999;
+  /*padding-bottom: 0.125em;*/
+  /*border-bottom: 2px dashed #999;*/
 }
 
 header h1 {
-  text-align: center;
+  text-align: left;
 }
 
 a {
@@ -128,6 +134,16 @@ a:link {
 
 h2, h2 a, h2 a:link {
   cursor: default;
+  color: #333333;
+}
+
+.big-right-arrow,
+.big-home {
+  color: #999;
+}
+
+.big-right-arrow:hover,
+.big-home:hover {
   color: #333333;
 }
 
@@ -153,11 +169,11 @@ img, iframe, .shadow {
   border-radius: 5px;
 }
 
-.more-work .container h1 {
-  margin: 1.2em 0 1.2em 0;
-  padding: 1.2em 0 1.2em 0;
-  border-top: 4px dashed #999;
-  border-bottom: 4px dashed #999; 
+.more-work .container h2 {
+  margin: 1em 0 1em 0;
+  padding: 1em 0 1em 0;
+  border-top: 2px dashed #999;
+  border-bottom: 2px dashed #999; 
 }
 
 .js-video {
@@ -185,16 +201,23 @@ img, iframe, .shadow {
   position: absolute;
 } 
 
+.masthead {
+  position: relative;
+}
 
+.big-right-arrow {
+  position: absolute;
+  top: -15px;
+  right: 0px;
+  font-size: 50px;
+}
 
-
-
-
-
-
-
-
-
+.big-home {
+  position: absolute;
+  left: -15px;
+  right: 0px;
+  font-size: 30px;
+}
 
 
 /* ==========================================================================

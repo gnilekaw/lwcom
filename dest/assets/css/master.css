@@ -1,4 +1,4 @@
-body {
+/*body {
   font-family: Arial, "MS Trebuchet", sans-serif;
   color: #333333;
   line-height: 1.72em;
@@ -63,3 +63,10 @@ img, iframe, .shadow {
   border-top: 4px dashed #999;
   border-bottom: 4px dashed #999; 
 }
+
+.big-right-arrow {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  font-size: 50px;
+}*/
