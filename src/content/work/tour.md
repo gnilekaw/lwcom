@@ -8,14 +8,14 @@ A Tour of the AC-1 Transatlantic Submarine Cable is the first-person account of 
 
 <div class="js-video vimeo widescreen"><iframe src="https://player.vimeo.com/video/65776201?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-## Screenings
+### Screenings
 
 - 19 March: Screening at <a href="http://www.serpentinegalleries.org/exhibitions-events/evening-great-pacific-garbage-patch">Evening on the Great Pacific Garbage Patch</a>, with Keller Easterling and Rachel Pimm, Serpentine, London  
 - 6 September &mdash; 9 November 2014: <a href="http://www.franklinstreetworks.org/it-narratives-the-movement-of-objects-as-information/">It Narratives, Franklin Street Works.</a>
 
-## Exhibitions
+### Exhibitions
 
-### The Greater Cloud 
+#### The Greater Cloud 
 
 Netherlands New Media Institute, Amsterdam, 10 December 2011 &ndash; 5 February 2012
 
@@ -27,7 +27,7 @@ Curated by Aleksandra Domanovic, Petra Heck, Oliver Laric and Katja Novitskova
 
 <img src="{{assets}}/images/ac1_DSC1455.jpg" alt="" />
 
-### Supplement Gallery
+#### Supplement Gallery
 
 London, 11 May & 13 May 2012
 

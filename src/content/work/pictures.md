@@ -38,7 +38,7 @@ title: Pictures
 
 <img src="{{assets}}/images/photos/santa_DSC7513.jpg" />
 
-<img src="{{assets}}/images/photos/polaski_DSC7399.jpg" />
+<!-- <img src="{{assets}}/images/photos/polaski_DSC7399.jpg" /> -->
 
 <img src="{{assets}}/images/photos/hemlock_DSC7439.jpg" />
 
