@@ -36,8 +36,3 @@ London, 11 May & 13 May 2012
 <img src="{{assets}}/images/5.jpg" alt="" />
 
 <img src="{{assets}}/images/6.jpg" alt="" />
-
-
----
-
-To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

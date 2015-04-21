@@ -37,15 +37,7 @@ title: Lance Wakeling Internet
 - 6 September &mdash; 9 November 2014: <a href="http://www.franklinstreetworks.org/it-narratives-the-movement-of-objects-as-information/">It Narratives, Franklin Street Works</a>.
 - 1 March &mdash; 11 May 2014: <a href="http://ucca.org.cn/en/exhibition/art-post-internet/">Art Post-Internet</a>, Ullens Center for Contemporary Art, Beijing, curated by Karen Archey and Robin Peckham.
 
-## Contact
 
-- mail [at] lancewakeling [dot] com
-- <a href="http://lancewakeling.us6.list-manage.com/subscribe?u=cee37085a779b645cd9f37af6&id=d39be1df78">Get occasional e-mails on screenings and projects</a>
-- <a href="http://twitter.com/lancewakeling">Twitter</a>
+## Info
 
-![Black Square (After Malevich)]({{assets}}/images/eflux-convo/black-square.jpg)
-
-
-Black Square
-
-<!-- <a href="https://vimeo.com/113037659" target="_blank" class="banner"><img src="{{assets}}/images/fv-official-trailer.png" alt="" /></a> -->
+[Contact](/pages/contact.html)

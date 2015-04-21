@@ -15,8 +15,3 @@ Views of a Former Verizon Building is the second in a series of works that explo
 <img src="{{assets}}/images/views-7-06-15.jpg" alt="" />
 
 <img src="{{assets}}/images/views-19-19.jpg" alt="" />
-
-
----
-
-To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

@@ -15,8 +15,3 @@ A video essay on the internet, obsidian, and the symbol of the eagle in Aztec an
 <img src="{{assets}}/images/ascent-to-the-sky-james-2.jpg" alt="" />
 
 <img src="{{assets}}/images/ascent-to-the-sky-nfl.jpg" alt="" />
-
-
----
-
-To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)

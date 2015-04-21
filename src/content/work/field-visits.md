@@ -28,6 +28,4 @@ This first-person travelogue maps the surrounding areas where former Army intell
 
 ---
 
-To acquire institutional copies contact [mail@lancewakeling.com](mailto:mail@lancewakeling.com)
-
 *Field Visits for Chelsea Manning* was made possible with the [support of friends and family](https://www.kickstarter.com/projects/lrw/field-visits-for-bradley-manning), a [2014 Rhizome Commission](http://rhizome.org/editorial/2014/oct/2/2014-2015-program/), and with funds from the Media Arts Assistance Fund, a regrant program of the New York State Council on the Arts, Electronic Media and Film, with the Support of Governor Andrew Cuomo and the New York State Legislature; administered by Wave Farm.
