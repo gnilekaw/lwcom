@@ -2,6 +2,8 @@
 title: Pictures
 ---
 
+![]({{assets}}/images/photos/connections_DSC7991.jpg)
+
 <img src="{{assets}}/images/photos/cloud-CIMG3942.jpg" />
 
 <img src="{{assets}}/images/photos/red-clouds_DSC7796.jpg" />
