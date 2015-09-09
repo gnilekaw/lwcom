@@ -3,6 +3,7 @@
 # dev dependencies
 bower_components/
 node_modules/
+deploy.sh
 
 # generated files
 dest/index.html

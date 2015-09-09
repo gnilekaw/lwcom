@@ -6,6 +6,7 @@ title: Lance Wakeling Internet
 
 - <a href="work/field-visits.html">Field Visits for Chelsea Manning</a>
 - <a href="work/tour.html">A Tour of the AC-1 Transatlantic Submarine Cable</a>
+- [Rod and Gun Club](/work/rod-and-gun-club.html)
 - <a href="work/subida-al-cielo.html">Subida al cielo</a>
 - <a href="work/views.html">Views of a Former Verizon Building</a>
 - <a href="work/obsidian-edition.html">Obsidian USB Edition</a>
@@ -19,7 +20,10 @@ title: Lance Wakeling Internet
 
 ## News and Screenings
 
+- 10 July: [Dirty Looks](http://onlocation.dirtylooksnyc.org/field-visits-for-chelsea-manning/), New York.
+- 18 July: [Outfest](http://www.outfest.org/tixSYS/2015/xslguide/eventnote.php?EventNumber=0876&notepg=), Los Angeles.
 - 28 May: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
+- 21 May: [LUX](http://lux.org.uk/whats-on/events/lux-salon-archaeologies-present-place): _Views of a Former Verizon Building_.
 - 19 March: [Verso Film Club](http://www.versobooks.com/events/1085-verso-film-club-field-visits-for-chelsea-manning-and-space-ghost-with-lance-wakeling-chase-madar-and-alexa-o-brien): *Field Visits for Chelsea Manning* and *Space Ghost* with Lance Wakeling, Chase Madar, and Alexa O'Brien, New York City
 - 19 March: Screening at [Evening on the Great Pacific Garbage Patch](http://www.serpentinegalleries.org/exhibitions-events/evening-great-pacific-garbage-patch), with Keller Easterling and Rachel Pimm, Serpentine, London.
 - February: New Historical Materialisms, [conversations.e-flux.com](http://conversations.e-flux.com/t/new-historical-materialisms/1022), curated by David Hodge and Hamed Yousefi.

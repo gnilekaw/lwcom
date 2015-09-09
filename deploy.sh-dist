@@ -5,4 +5,4 @@
 # h	human readable
 # i	itemize changes
 
-rsync -havir ./dest/ canaryadmin@lancewakeling.com:/home/canaryadmin/lancewakeling.com/
+rsync -havir ./dest/ user@127.0.0.1:/var/www/mysite

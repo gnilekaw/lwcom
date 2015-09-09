@@ -8,6 +8,8 @@ This first-person travelogue maps the surrounding areas where former Army intell
 
 ### News
 
+- 10 July: [Dirty Looks](http://onlocation.dirtylooksnyc.org/field-visits-for-chelsea-manning/), New York.
+- 18 July: [Outfest](http://www.outfest.org/tixSYS/2015/xslguide/eventnote.php?EventNumber=0876&notepg=), Los Angeles.
 - 28 May: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
 - 19 March: [Verso Film Club](http://www.versobooks.com/events/1085-verso-film-club-field-visits-for-chelsea-manning-and-space-ghost-with-lance-wakeling-chase-madar-and-alexa-o-brien): *Field Visits for Chelsea Manning* and *Space Ghost* with Lance Wakeling, Chase Madar, and Alexa O'Brien, New York City
 - "<a href="http://www.nytimes.com/2015/01/30/arts/design/art-exhibitions-from-chelsea-to-the-lower-east-side.html" title="">15 Group Shows Not to Miss</a>," Roberta Smith, <em>New York Times</em>  
