@@ -20,7 +20,8 @@ title: Lance Wakeling Internet
 
 ## News and Screenings
 
-- 12 September [Sous-Veillance](http://www.othercinema.com/), San Francisco
+- 3 October: _Views of a Former Verizon Building_ at [Architeteturas Film Festival](http://www.arquiteturasfilmfestival.com/2015/), Lisboa
+- 12 September [Sous-Veillance](http://www.othercinema.com/calendar/index.html), San Francisco
 - 10 July: [Dirty Looks](http://onlocation.dirtylooksnyc.org/field-visits-for-chelsea-manning/), New York.
 - 18 July: [Outfest](http://www.outfest.org/tixSYS/2015/xslguide/eventnote.php?EventNumber=0876&notepg=), Los Angeles.
 - 28 May: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
