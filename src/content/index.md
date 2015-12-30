@@ -20,18 +20,22 @@ title: Lance Wakeling Internet
 
 ## News and Screenings
 
-- 3 October: _Views of a Former Verizon Building_ at [Architeteturas Film Festival](http://www.arquiteturasfilmfestival.com/2015/), Lisboa
-- 12 September [Sous-Veillance](http://www.othercinema.com/calendar/index.html), San Francisco
-- 10 July: [Dirty Looks](http://onlocation.dirtylooksnyc.org/field-visits-for-chelsea-manning/), New York.
-- 18 July: [Outfest](http://www.outfest.org/tixSYS/2015/xslguide/eventnote.php?EventNumber=0876&notepg=), Los Angeles.
-- 28 May: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
-- 21 May: [LUX](http://lux.org.uk/whats-on/events/lux-salon-archaeologies-present-place): _Views of a Former Verizon Building_.
-- 19 March: [Verso Film Club](http://www.versobooks.com/events/1085-verso-film-club-field-visits-for-chelsea-manning-and-space-ghost-with-lance-wakeling-chase-madar-and-alexa-o-brien): *Field Visits for Chelsea Manning* and *Space Ghost* with Lance Wakeling, Chase Madar, and Alexa O'Brien, New York City
-- 19 March: Screening at [Evening on the Great Pacific Garbage Patch](http://www.serpentinegalleries.org/exhibitions-events/evening-great-pacific-garbage-patch), with Keller Easterling and Rachel Pimm, Serpentine, London.
-- February: New Historical Materialisms, [conversations.e-flux.com](http://conversations.e-flux.com/t/new-historical-materialisms/1022), curated by David Hodge and Hamed Yousefi.
+- 6 Feburary 2016, 11:30 AM – 1 PM: Pratt Upload: [Infrastructural Aesthetics](https://www.pratt.edu/academics/school-of-art/graduate-school-of-art/digital-arts-grad/pratt-upload/) (Panel discussion with Shannon Matterhorn, Nicole Starosielski and Ian Hatcher, organized by Tyler Coburn.)
+- 16 January - 8 March 2016: _In Search of Thomas Pynchon_ at [Nieuwe Vide](http://www.nieuwevide.nl/programma/in-search-of-thomas-pynchon), Haarlem
+- 27 November 2015: _Field Visits_ at [Artist Run Data Center](http://research.radical-openness.org/2015/?p=681), organized by Dave Young
+- 20 October 2015: _Field Visits_ at [Milwaukee LGBT Film Festival](https://uwm.edu/lgbtfilmfestival/event/field-visits-for-chelsea-manning-free/)
+- 3 October 2015: _Views of a Former Verizon Building_ at [Architeteturas Film Festival](http://www.arquiteturasfilmfestival.com/2015/), Lisboa
+- 12 September 2015 [Sous-Veillance](http://www.othercinema.com/calendar/index.html), San Francisco
+- 10 July 2015: [Dirty Looks](http://onlocation.dirtylooksnyc.org/field-visits-for-chelsea-manning/), New York.
+- 18 July 2015: [Outfest](http://www.outfest.org/tixSYS/2015/xslguide/eventnote.php?EventNumber=0876&notepg=), Los Angeles.
+- 28 May 2015: <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-cinema-lance-wakeling">Serpentine Cinema: <em>Fields Visits for Chelsea Manning</em></a>, Hackney Picturehouse, London.
+- 21 May 2015: [LUX](http://lux.org.uk/whats-on/events/lux-salon-archaeologies-present-place): _Views of a Former Verizon Building_.
+- 19 March 2015: [Verso Film Club](http://www.versobooks.com/events/1085-verso-film-club-field-visits-for-chelsea-manning-and-space-ghost-with-lance-wakeling-chase-madar-and-alexa-o-brien): *Field Visits for Chelsea Manning* and *Space Ghost* with Lance Wakeling, Chase Madar, and Alexa O'Brien, New York City
+- 19 March 2015: Screening at [Evening on the Great Pacific Garbage Patch](http://www.serpentinegalleries.org/exhibitions-events/evening-great-pacific-garbage-patch), with Keller Easterling and Rachel Pimm, Serpentine, London.
+- February 2015: New Historical Materialisms, [conversations.e-flux.com](http://conversations.e-flux.com/t/new-historical-materialisms/1022), curated by David Hodge and Hamed Yousefi.
 - <em>Brooklyn Rail</em> reviews [Migrating Forms](http://www.brooklynrail.org/2015/02/film/plenty-of-causes-for-concern-bams-migrating-forms) and "[Thanks to Apple, Amazon, and the Mall](http://www.brooklynrail.org/2015/02/artseen/thanks-to-apple-amazon-and-the-mall)."
 - "<a href="http://www.nytimes.com/2015/01/30/arts/design/art-exhibitions-from-chelsea-to-the-lower-east-side.html" title="">15 Group Shows Not to Miss</a>," Roberta Smith, <em>New York Times</em>.
-- 25 January: Screening at Klaus von Nichtssagend, New York.
+- 25 January 2015: Screening at Klaus von Nichtssagend, New York.
 - 6 January 2015: <a href="http://klausgallery.com/exhibition/thanks-to-apple-amazon-and-the-mall-curated-by-brian-droitcour-2015-01-6/#thanks-to-apple-amazon-and-the-mall-2143">Thanks to Apple, Amazon, and the Mall</a>, curated by Brian Droitcur, Klaus von Nichtssagend, New York.
 - "<a href="http://artforum.com/film/id=49431">Heads in the Cloud</a>," Nick Pinkerton, <em>Artforum.com</em>.
 - 14 December 2014: <em>Field Visits for Chelsea Manning</em> <a href="http://www.bam.org/film/2014/field-visits-for-chelsea-manning">World Premiere</a> at BAM's Migrating Forms.
