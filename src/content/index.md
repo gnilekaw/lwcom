@@ -21,6 +21,7 @@ title: Lance Wakeling Internet
 
 ## News and Screenings
 
+- 17 February 2016, 6:30 PM: [Shift Screening](http://www.centerforthehumanities.org/programming/field-visits-for-chelsea-manning), presented by the Graduate Center
 - 6 Feburary 2016, 11:30 AM – 1 PM: Pratt Upload: [Infrastructural Aesthetics](https://www.pratt.edu/academics/school-of-art/graduate-school-of-art/digital-arts-grad/pratt-upload/) (Panel discussion with Shannon Matterhorn, Nicole Starosielski and Ian Hatcher, organized by Tyler Coburn.)
 - 16 January - 8 March 2016: _In Search of Thomas Pynchon_ at [Nieuwe Vide](http://www.nieuwevide.nl/programma/in-search-of-thomas-pynchon), Haarlem
 - 27 November 2015: _Field Visits_ at [Artist Run Data Center](http://research.radical-openness.org/2015/?p=681), organized by Dave Young
