@@ -4,6 +4,7 @@ title: Lance Wakeling Internet
 
 ## Selected Work
 
+- [New York Control](http://instagram.com/nycontrol)
 - [Birth of a Network](http://blog.privatecirculation.com/3-teasers-for-birth-of-a-network/)
 - <a href="work/field-visits.html">Field Visits for Chelsea Manning</a>
 - <a href="work/tour.html">A Tour of the AC-1 Transatlantic Submarine Cable</a>
