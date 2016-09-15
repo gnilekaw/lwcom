@@ -22,8 +22,6 @@ title: Contact
 
 mail [at] lancewakeling [dot] com
 
-[Twitter](http://twitter.com/lancewakeling)
-
 ![Black Square (After Malevich)]({{assets}}/images/eflux-convo/black-square.jpg)
 
 Black Square
